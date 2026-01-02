@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAR.BUS", "SAR.BUS\SAR.BUS.csproj", "{11900142-7ECC-4465-8E3F-C9ED3497F24D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAR.DAL", "SAR.DAL\SAR.DAL.csproj", "{248CAF3D-A6A3-4C9B-B749-2EEFB89CD6CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAR.GUI", "SAR.GUI\SAR.GUI.csproj", "{CC3954A8-539E-4AB7-A963-17F0BE26F4CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11900142-7ECC-4465-8E3F-C9ED3497F24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11900142-7ECC-4465-8E3F-C9ED3497F24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11900142-7ECC-4465-8E3F-C9ED3497F24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11900142-7ECC-4465-8E3F-C9ED3497F24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248CAF3D-A6A3-4C9B-B749-2EEFB89CD6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248CAF3D-A6A3-4C9B-B749-2EEFB89CD6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248CAF3D-A6A3-4C9B-B749-2EEFB89CD6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248CAF3D-A6A3-4C9B-B749-2EEFB89CD6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3954A8-539E-4AB7-A963-17F0BE26F4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3954A8-539E-4AB7-A963-17F0BE26F4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3954A8-539E-4AB7-A963-17F0BE26F4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3954A8-539E-4AB7-A963-17F0BE26F4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
